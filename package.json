@@ -8,14 +8,6 @@
     "lint": "vue-cli-service lint --max-old-space-size=4096"
   },
   "dependencies": {
-    "axios": "^0.17.1",
-    "cssnano": "3.10.0",
-    "jump.js": "^1.0.2",
-    "lodash": "^4.17.10",
-    "md5": "^2.2.1",
-    "moment": "^2.20.1",
-    "nb-mescroll": "^1.0.0",
-    "nb-vue-bus": "^1.0.0",
     "nb-vue-element": "^1.2.56",
     "postcss-aspect-ratio-mini": "^0.0.2",
     "postcss-cssnext": "^3.1.0",
